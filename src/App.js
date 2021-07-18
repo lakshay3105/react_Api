@@ -40,7 +40,7 @@ class App extends Component{
               <img src={item.avatar_url} width="200" height="200"></img>
               </td>
               <td>
-              Name: {item.login}<br></br>
+              Name: {item.login}<br></br><br></br>
               </td>
             </tr>
             ))};
